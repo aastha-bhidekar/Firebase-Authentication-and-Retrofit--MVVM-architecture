@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">First_JetPack</string>
+    <string name="Login_Title">Sign In To Your Account.</string>
+    <string name="Title">slothui</string>
+    <string name="Subtitle">Unleash your inner sloth 4.0 right now.</string>
+    <string name="email">Email Address</string>
+    <string name="account">Don’t have an account?</string>
+    <string name="google_login">Sign In With Google</string>
+    <string name="User_name">User Name</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="password">Password</string>
+    <string name="password_length">Password must be at least 8 characters</string>
+    <string name="facebook_login">Sign In With Facebook</string>
+    <string name="Signup_Title">Sign Up For Free.</string>
+    <string name="empty_user">Username cannot be empty</string>
+</resources>
